@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @fabishvishal
+- 👀 I’m interested in learning and exploring new languages and their application.
+- 🌱 I’m currently exploring different spaces , so that i can finally make mind on where exactly i want to work.
+- 💞️ I’m not pro in any language, rather i prefer copy paste and solving problem as fast and efficiently as i can.
+- 📫 you can reach out to me on vishaltembhreonly01@gmail.com
+- I am up for anything that comes on my way, rightnow i am more focussed on exploring rather than learning to feed my curosity.
+- automation / data analytics / IoT / and C++ attracts my attention immediately 
+- And i am part time political history analyst (self proclaimed) and spend most of my time reading history-politics-new tech developments .
