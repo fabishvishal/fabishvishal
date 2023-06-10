@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @fabishvishal
-- 👀 I’m interested in learning and exploring new languages and their application.
-- 🌱 I’m currently exploring different spaces , so that i can finally make mind on where exactly i want to work.
-- 💞️ I’m not pro in any language, rather i prefer copy paste and solving problem as fast and efficiently as i can.
 - 📫 you can reach out to me on vishaltembhre@gmail.com
-- I am up for anything that comes on my way, rightnow i am more focussed on exploring rather than learning to feed my curosity.
+- I am up for anything that comes on my way, rightnow i am more focussed on exploring and learning new ways to play with data.
 - data analytics / data engineering / and low level programming language (RUST/C++) attracts my attention immediately 
